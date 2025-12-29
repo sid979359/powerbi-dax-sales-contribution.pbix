@@ -80,4 +80,5 @@ Through this exercise, the following concepts were reinforced:
 - No Power Query transformations were required beyond basic loading.
 - The solution is intentionally kept simple to highlight DAX behavior clearly.
 
-report.png
+powerbi-dax-sales-contribution.pbix
+/report.png
